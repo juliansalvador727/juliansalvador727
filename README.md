@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Julian
-I'm in grade 11, and I'm currently learning CPP.
+## I'm in grade 11, and I'm currently learning CPP.
 
 <!--
 **juliansalvador727/juliansalvador727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
