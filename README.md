@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Julian
-## I'm in grade 11, and I'm currently learning stuff
+## I'm in grade 12, and I'm currently learning stuff
 ## Ultimate 🥏 on top!
 ## I love playing fortnite with my amigos.
 
