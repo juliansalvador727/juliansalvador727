@@ -1,8 +1,4 @@
 ### Hi there 👋 My name is Julian
-## I'm in grade 12, and I'm currently learning stuff
-## Ultimate 🥏 on top!
-## I love playing fortnite with my amigos.
-
 
 <!--
 **juliansalvador727/juliansalvador727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
