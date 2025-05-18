@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [juliansalvador727.github.io](juliansalvador727.github.io)
 
-- 💬 Ask me about **mindset**
+- 💬 Ask me about anything **Music**
 
 - 📫 How to reach me **juliansalvador727@gmail.com**
 
