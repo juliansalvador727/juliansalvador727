@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliansalvador727&label=Profile%20views&color=0e75b6&style=flat" alt="juliansalvador727" /> </p>
 
-- 🔭 I’m currently working on [a calculator clone of microsoft's calculator](https://github.com/juliansalvador727/calculator)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [juliansalvador727.github.io](juliansalvador727.github.io)
-
-- 💬 Ask me about anything **Music**
-
-- 📫 How to reach me **juliansalvador727@gmail.com**
-
-- ⚡ Fun fact **I like piano, ultimate frisbee, and paddleboarding.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julian-salvador727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-salvador727" height="30" width="40" /></a>
