@@ -1,5 +1,5 @@
 <h1 align="center">julian salvador</h1>
-
+<p>comp eng @ uwaterloo</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=juliansalvador727&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=juliansalvador727&theme=one_dark_pro&hide_border=false)<br/>
